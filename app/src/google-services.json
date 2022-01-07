@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964410919738",
+    "project_id": "fir-crud-e8208",
+    "storage_bucket": "fir-crud-e8208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964410919738:android:61751b6ec5cc71a00d9e03",
+        "android_client_info": {
+          "package_name": "com.example.datatoko12113"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964410919738-ofll0lmg923bduabij9evsudsjq49211.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0GmAjcBVwsKRujH1Diu-EflecCP5h5dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964410919738-ofll0lmg923bduabij9evsudsjq49211.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
